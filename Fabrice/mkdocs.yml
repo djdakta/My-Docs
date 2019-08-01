@@ -1,0 +1,12 @@
+site_name: Fabrice Dox
+nav:
+    - Home: index.md
+    - Accounts: accounts.md
+    - Website Creation: website_creation.md
+    - Dev. Tools: development tools.md
+    - Protocols: protocols.md
+    - How-to: howto.md
+    - Help: help.md
+    - License: license.md
+
+theme: readthedocs
