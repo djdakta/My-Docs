@@ -6,3 +6,5 @@ In the first place, Sphynx was used to create these Documentation files but this
 Now, MKdocs is used as a Documentation creation system.
 MKdocs offers easier settings and ways to create these docs, like Markdown syntax for the source files.
 The configuration is done using 'mkdocs.yml' file
+
+The directories are the different projects where Documentation has been written.
