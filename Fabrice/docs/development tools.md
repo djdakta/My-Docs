@@ -8,19 +8,19 @@ Text editor does not equal Text processor!
 
 A text editor is an app that allows you to edit some text! (what's in a name!)
 
-Some text editors: Notepad++, Atom, VS Code, BBEdit, Bluefish, Sublime Text, ...
+Some text editors: Notepad++ (Windows only), Atom, VS Code (My First choice), BBEdit, Sublime Text, ...
 
 ## Internet Browser
 
 This will probably appear as obvious but... It's a very important tool in the Dev. process!
 
-Some web-brouwsers: Safari, Google Chrome, Mozilla Firefox, Opera, ...
+Some web-browsers: Safari, Google Chrome, Mozilla Firefox, Opera, ...
 
 ## FTP client
 
 An FTP client is an application that allows you to connect to an FTP server. (FTP = File Transfer Protocol)
 
-This is very usefull to upload your files to your webserver/webhost!
+This is very useful to upload your files to your webserver/webhost!
 
 ## More later
 
