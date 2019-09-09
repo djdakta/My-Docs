@@ -4,6 +4,7 @@ nav:
     - Accounts: accounts.md
     - Website Creation: website_creation.md
     - Dev. Tools: development tools.md
+    - How to write a good Bug Report: bug_report.md
     - Protocols: protocols.md
     - How-to: howto.md
     - Help: help.md
