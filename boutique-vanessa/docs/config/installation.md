@@ -16,18 +16,12 @@ Ce compte utilisateur ne sait être créé que par Dakta, ce pour des mesures de
 ## Base de données
 
 Base de donnée de type MySQL est utilisée.
-Nom de la base: edegrema3366a_
-Hôte: localhost:3306
-Nom de l'utilisateur ayant les droits 'root' sur la base de données:
-webmasterdb
 
-Préfixe du nom des tables: azer
 
 ## Infos à propos du serveur de la base de données
 
 Server type: MariaDB
 Server version: 10.0.38-MariaDB-0+deb8u1 - (Debian)
-User: webmasterdb@localhost
 Server charset: cp1252 West European (latin1)
 
 ## Infos à propos du Serveur Web
