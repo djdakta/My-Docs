@@ -1,9 +1,0 @@
-site_name: Documentation Boutique Vanessa
-
-docs:
-    index.md
-    /config/configuration.md
-    /config/hébergement.md
-    /config/installation.md
-
-theme: readthedocs
